@@ -1,2 +1,2 @@
 # Expense-tracker-
-Used for trake your expense 
+Used for trake your expense
